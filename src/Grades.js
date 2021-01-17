@@ -53,7 +53,7 @@ class Grades extends Component {
             </div>
           ))}
 
-          <Tags test={tags} />
+          <Tags array={tags} />
 
           <br />
 
